@@ -9,21 +9,7 @@ client:
 category: 
 description: Примеры моих работ на Python
 cont: >
-
-    <h3>MH Editor - Редактор часов техобслуживания</h3>
-    <p>
-        Приложение для управления часами технического обслуживания промышленного оборудования, интегрированного с ПЛК Siemens S7.
-        Реализовано на Python (Tkinter) и предназначено для удобного чтения/записи значений времени ТО непосредственно в DB-блоки контроллера через пользовательский интерфейс..
-    </p>
-
-   <a href="img/screenshots/mh_editor.png" data-lightbox="mh_editor" data-title="Редактор моточасов">
-        <img src="img/screenshots/mh_editor.png" alt="Редактор моточасов" class="img-responsive">
-    </a>
-    <a href="https://github.com/SemonoffArt/rh_editor" class="btn btn-default">
-            <i class="fa fa-link"></i> Исходный код и документация на GitHub
-    </a>
-
-    <h3 style="margin-top: 40px;">XML2XLS — конвертор трендов ECS8 из XML в XLSX</h3>
+   <h3 style="margin-top: 40px;">XML2XLS — конвертор трендов ECS8 из XML в XLSX</h3>
     <p>
         Утилита для преобразования выгруженных данных трендов из SCADA-системы FLS ECS8 из XML в Excel (XLSX).
     </p>
