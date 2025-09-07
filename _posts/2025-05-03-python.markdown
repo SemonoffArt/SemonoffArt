@@ -14,6 +14,9 @@ cont: >
         Приложение для управления часами технического обслуживания промышленного оборудования, интегрированного с ПЛК Siemens S7.
         Реализовано на Python (Tkinter) и предназначено для удобного чтения-записи значений времени ТО непосредственно в DB-блоки контроллера через пользовательский интерфейс..
     </p>
+    <a href="img/screenshots/mh_editor.png" data-lightbox="mh_editor" data-title="Редактор моточасов">
+        <img src="img/screenshots/mh_editor.png" alt="Редактор моточасов" class="img-responsive">
+    </a>
     <a href="https://github.com/SemonoffArt/rh_editor" class="btn btn-default">
             <i class="fa fa-link"></i> Исходный код и документация на GitHub
     </a>
