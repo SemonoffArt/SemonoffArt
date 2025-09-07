@@ -15,8 +15,8 @@ cont: >
 Реализовано на Python (Tkinter) и предназначено для удобного чтения/записи значений времени ТО непосредственно в DB-блоки контроллера через пользовательский интерфейс..
     </p>
 
-   <a href="img/screenshots/kkd2/main2.png" data-lightbox="hmi_kkd2" data-title="ККД2 Главный">
-        <img src="img/screenshots/kkd2/main2.png" alt="ККД2 Главный" class="img-responsive">
+   <a href="img/screenshots/mh_editor.png" data-lightbox="hmi_kkd2" data-title="Редактор моточасов">
+        <img src="img/screenshots/mh_editor.png" alt="Редактор моточасов" class="img-responsive">
     </a>
     <a href="https://github.com/SemonoffArt/rh_editor" class="btn btn-default">
             <i class="fa fa-link"></i> Исходный код и документация на GitHub
